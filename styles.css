@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.myportfolio{
+background-color:skyblue;
+height: 50px;
+text-align: center;
+font-size: large;
+}
+h3{
+    padding:10px;
+}
+li{
+    display:inline;
+    
+    }
+    .navbar{
+        background-color:black;
+        height:50px;
+    }
+    a{
+        float:right;
+        padding-top: 30px;
+        color:aliceblue;
+        text-decoration: none;
+        font-weight: bolder;
+        padding-right: 50px;
+    }
+    .introduction{
+        background-image: url(./nattu-adnan-Ai2TRdvI6gM-unsplash.jpg);
+        background-repeat: none;
+       min-height: 300px;
+        background-position: center;
+    }
+    /* body{
+        background-color
+    } */
+    h1{
+        font-weight: bolder;
+        padding-top:200px;
+        font-style: italic;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 50px;
+        text-align: center;
+        line-height: 1.5em;
+        padding-left:50px;
+        }
+        .mywork{
+            float:right;
+            background-color:black;
+            color:whitesmoke;
+            padding:30px;
+            margin-top:-100px;
+        }
+        img{
+            border-radius: 300px;
+            width:200px;
+            height:200px;
+            position:relative;
+            bottom:350px;
+        }
+        clr{
+            padding:0;
+            margin:0;
+        }
